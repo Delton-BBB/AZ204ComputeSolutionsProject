@@ -1,7 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\.github",
+    "\\.github\\workflows",
+    "\\WeatherAPI"
   ],
-  "SelectedNode": "\\README.md",
+  "SelectedNode": "\\WeatherAPI",
   "PreviewInSolutionExplorer": false
 }
