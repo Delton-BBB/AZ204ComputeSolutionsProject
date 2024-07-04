@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "5K9k6jf3ARb/iJb01DYl/fM2N89ugbTgwg+4vOc/enwdOA0wk6SgNAjrlYshTOVEsPFMuBGqxmiKFL93aPeRUA==",
+  "success": true,
+  "projectFilePath": "C:\\Projects\\WeatherAPI\\WeatherAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Delton.Fernandes\\.nuget\\packages\\microsoft.netcore.app.host.linux-x64\\8.0.3\\microsoft.netcore.app.host.linux-x64.8.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,119 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projects\\WeatherAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E917ED6F-366E-4FAB-93B1-01915F3CABF9}|WeatherAPI.csproj|c:\\projects\\weatherapi\\controllers\\weatherapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E917ED6F-366E-4FAB-93B1-01915F3CABF9}|WeatherAPI.csproj|solutionrelative:controllers\\weatherapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E917ED6F-366E-4FAB-93B1-01915F3CABF9}|WeatherAPI.csproj|c:\\projects\\weatherapi\\controllers\\weatherapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E917ED6F-366E-4FAB-93B1-01915F3CABF9}|WeatherAPI.csproj|solutionrelative:controllers\\weatherapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E917ED6F-366E-4FAB-93B1-01915F3CABF9}|WeatherAPI.csproj|c:\\projects\\weatherapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E917ED6F-366E-4FAB-93B1-01915F3CABF9}|WeatherAPI.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E917ED6F-366E-4FAB-93B1-01915F3CABF9}|WeatherAPI.csproj|c:\\projects\\weatherapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E917ED6F-366E-4FAB-93B1-01915F3CABF9}|WeatherAPI.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E917ED6F-366E-4FAB-93B1-01915F3CABF9}|WeatherAPI.csproj|c:\\projects\\weatherapi\\weatherapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{E917ED6F-366E-4FAB-93B1-01915F3CABF9}|WeatherAPI.csproj|solutionrelative:weatherapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E917ED6F-366E-4FAB-93B1-01915F3CABF9}|WeatherAPI.csproj|c:\\projects\\weatherapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E917ED6F-366E-4FAB-93B1-01915F3CABF9}|WeatherAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WeatherAPIService.cs",
+              "DocumentMoniker": "C:\\Projects\\WeatherAPI\\Controllers\\WeatherAPIService.cs",
+              "RelativeDocumentMoniker": "Controllers\\WeatherAPIService.cs",
+              "ToolTip": "C:\\Projects\\WeatherAPI\\Controllers\\WeatherAPIService.cs",
+              "RelativeToolTip": "Controllers\\WeatherAPIService.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwBsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T17:05:25.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Projects\\WeatherAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Projects\\WeatherAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-03T16:55:17.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WeatherAPI.http",
+              "DocumentMoniker": "C:\\Projects\\WeatherAPI\\WeatherAPI.http",
+              "RelativeDocumentMoniker": "WeatherAPI.http",
+              "ToolTip": "C:\\Projects\\WeatherAPI\\WeatherAPI.http",
+              "RelativeToolTip": "WeatherAPI.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-07-03T16:52:16.108Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Projects\\WeatherAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Projects\\WeatherAPI\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-03T16:52:10.434Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WeatherAPIController.cs",
+              "DocumentMoniker": "C:\\Projects\\WeatherAPI\\Controllers\\WeatherAPIController.cs",
+              "RelativeDocumentMoniker": "Controllers\\WeatherAPIController.cs",
+              "ToolTip": "C:\\Projects\\WeatherAPI\\Controllers\\WeatherAPIController.cs",
+              "RelativeToolTip": "Controllers\\WeatherAPIController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T16:52:05.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projects\\WeatherAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Projects\\WeatherAPI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T16:51:21.397Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+C:\Projects\WeatherAPI\obj\Release\net8.0\linux-x64\PubTmp\Out\WeatherAPI
+C:\Projects\WeatherAPI\obj\Release\net8.0\linux-x64\PubTmp\Out\appsettings.Development.json
+C:\Projects\WeatherAPI\obj\Release\net8.0\linux-x64\PubTmp\Out\appsettings.json
+C:\Projects\WeatherAPI\obj\Release\net8.0\linux-x64\PubTmp\Out\WeatherAPI.dll
+C:\Projects\WeatherAPI\obj\Release\net8.0\linux-x64\PubTmp\Out\WeatherAPI.deps.json
+C:\Projects\WeatherAPI\obj\Release\net8.0\linux-x64\PubTmp\Out\WeatherAPI.runtimeconfig.json
+C:\Projects\WeatherAPI\obj\Release\net8.0\linux-x64\PubTmp\Out\WeatherAPI.pdb
